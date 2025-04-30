@@ -1,0 +1,2 @@
+2025-04-30 11:38:41.195|ERROR|be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
+2025-04-30 11:38:41.195|WARN |be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.

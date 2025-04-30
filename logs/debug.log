@@ -1,0 +1,23 @@
+2025-04-30 11:37:46.497|INFO |20d3d10feaf1453b8a08890ce597cea8|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 12820 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-04-30 11:37:46.525|DEBUG|20d3d10feaf1453b8a08890ce597cea8|c.a.l.LogbackspringbootfileApplication            :54 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-04-30 11:37:46.528|INFO |20d3d10feaf1453b8a08890ce597cea8|c.a.l.LogbackspringbootfileApplication            :652 - No active profile set, falling back to 1 default profile: "default"
+2025-04-30 11:37:48.578|INFO |20d3d10feaf1453b8a08890ce597cea8|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-30 11:37:48.583|INFO |20d3d10feaf1453b8a08890ce597cea8|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-04-30 11:37:48.583|INFO |20d3d10feaf1453b8a08890ce597cea8|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-30 11:37:48.660|INFO |20d3d10feaf1453b8a08890ce597cea8|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-04-30 11:37:48.910|DEBUG|20d3d10feaf1453b8a08890ce597cea8|_.s.web.servlet.HandlerMapping.Mappings           :294 - 
+	c.a.l.TestController:
+	{GET [/ || ]}: test()
+2025-04-30 11:37:48.919|DEBUG|20d3d10feaf1453b8a08890ce597cea8|_.s.web.servlet.HandlerMapping.Mappings           :294 - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2025-04-30 11:37:48.935|DEBUG|20d3d10feaf1453b8a08890ce597cea8|_.s.web.servlet.HandlerMapping.Mappings           :86 - 'beanNameHandlerMapping' {}
+2025-04-30 11:37:49.021|DEBUG|20d3d10feaf1453b8a08890ce597cea8|_.s.web.servlet.HandlerMapping.Mappings           :176 - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2025-04-30 11:37:49.221|INFO |20d3d10feaf1453b8a08890ce597cea8|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-30 11:37:49.288|INFO |20d3d10feaf1453b8a08890ce597cea8|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 5.046 seconds (process running for 7.58)
+2025-04-30 11:38:20.010|INFO |7247db1977d04cde910ff5c48e54f933|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-30 11:38:41.193|DEBUG|be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :17 - Debug message logged.
+2025-04-30 11:38:41.194|INFO |be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :18 - Info message logged.
+2025-04-30 11:38:41.195|ERROR|be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
+2025-04-30 11:38:41.195|WARN |be17e19a70be40909c1266d9f6cb9bf4|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
