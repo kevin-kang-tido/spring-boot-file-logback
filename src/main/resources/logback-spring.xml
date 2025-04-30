@@ -1,6 +1,7 @@
 <configuration debug="false" encoding="UTF-8">
     <property name="logback.encoding" value="UTF-8"/>
 
+    <!-- generate unique uuid per logs  -->
     <conversionRule conversionWord="uuid" converterClass="com.apd.logbackspringbootfile.config.UUIDConverter" />
     <property name="logback.pattern"
               value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%-5level|%uuid|%-50logger{50}:%line - %msg%n"/>
@@ -9,12 +10,14 @@
     <property name="logback.pattern.console"
               value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%highlight(%-5level)|%uuid|%-50logger{50}:%cyan(%line) - %msg%n"/>
 
+    <!--     send log to console -->
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
             <pattern>${logback.pattern.console}</pattern>
         </encoder>
     </appender>
 
+    <!--    Appender Log Level handle  -->
     <appender name="DEBUG_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>logs/debug.log</file>
         <filter class="ch.qos.logback.classic.filter.LevelFilter">
@@ -22,8 +25,8 @@
         </filter>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <FileNamePattern>logs/spring-logback.debug.%d{yyyy-MM-dd}<!--.%i-->.log</FileNamePattern>
-            <maxHistory>30</maxHistory> <!-- Keep logs for 60 days -->
-           <totalSizeCap>3GB</totalSizeCap>  <!--  Keep data only 3GB -->
+            <maxHistory>30</maxHistory>     <!-- Keep logs for 30 days -->
+           <totalSizeCap>3GB</totalSizeCap>  <!--  Keep data max  3GB -->
         </rollingPolicy>
 
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
@@ -40,6 +43,24 @@
         </filter>
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
             <FileNamePattern>logs/spring-logback.info.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxHistory>30</maxHistory>
+            <maxFileSize>200MB</maxFileSize>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${logback.pattern}</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="WARN_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/warn.log</file> <!--  get the logs warn to file logs -->
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>WARN</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>logs/spring-logback.warn.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxHistory>30</maxHistory>
             <maxFileSize>200MB</maxFileSize>
         </rollingPolicy>
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
@@ -54,6 +75,7 @@
         </filter>
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
             <FileNamePattern>logs/spring-logback.error.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxHistory>30</maxHistory> <!--  30 day -->
             <maxFileSize>500MB</maxFileSize>
         </rollingPolicy>
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
@@ -62,11 +84,10 @@
     </appender>
 
     <!-- Used to set the log printing level of a certain package or a certain class -->
-    <!--<logger name="org.springframework" level="warn"/>-->
+    <!-- <logger name="org.springframework" level="warn"/> -->
     <logger name="org.apache" level="info"/>
     <logger name="org.aspectj.weaver" level="warn"/>
     <logger name="org.hibernate" level="OFF"/>
-    <!--    <logger name="org.hibernate.SQL" level="DEBUG" />-->
     <logger name="java.sql.Connection" level="debug"/>
     <logger name="java.sql.Statement" level="debug"/>
     <logger name="java.sql.ResultSet" level="debug"/>
@@ -82,6 +103,7 @@
     <root level="DEBUG">
         <appender-ref ref="DEBUG_FILE"/>
         <appender-ref ref="INFO_FILE"/>
+        <appender-ref ref="WARN_FILE"/>
         <appender-ref ref="ERROR_FILE"/>
         <!-- The console log is parsed last -->
         <appender-ref ref="STDOUT"/>

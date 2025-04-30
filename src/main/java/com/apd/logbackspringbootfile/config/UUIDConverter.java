@@ -13,18 +13,4 @@ public class UUIDConverter extends ClassicConverter {
     public String convert(ILoggingEvent event) {
         return transactionId.get();
     }
-
-    // Method to generate a new UUID for the next task
-    public static void generateNewUUID() {
-        transactionId.set(UUID.randomUUID().toString().replace("-", ""));
-    }
-
-    // Static method for getting the current transaction ID
-    public static String getTransactionId() {
-        return transactionId.get();
-    }
-
-    public void unload() {
-        transactionId.remove(); // Compliant
-    }
 }
