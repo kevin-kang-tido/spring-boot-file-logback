@@ -3,12 +3,21 @@
 
     <!-- generate unique uuid per logs  -->
     <conversionRule conversionWord="uuid" converterClass="com.apd.logbackspringbootfile.config.UUIDConverter" />
+
     <property name="logback.pattern"
               value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%-5level|%uuid|%-50logger{50}:%line - %msg%n"/>
     <property name="logback.pattern.error"
               value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%-5level|%uuid|%-50logger{50}:%line - %msg%n"/>
+
+    <!--    <property name="logback.pattern.console"-->
+<!--              value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%highlight(%-5level)|%uuid|%-50logger{50}:%cyan(%line) - %msg%n"/>-->
+<!--    -->
     <property name="logback.pattern.console"
-              value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%highlight(%-5level)|%uuid|%-50logger{50}:%cyan(%line) - %msg%n"/>
+              value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%highlight(%-5level){ERROR=red, WARN=yellow, INFO=green, DEBUG=blue, TRACE=cyan}|%uuid|%-50logger{50}:%cyan(%line) - %msg%n"/>
+
+    <property name="logback.pattern.warn"
+              value="%date{yyyy-MM-dd HH:mm:ss.SSS}|%highlight(%-5level){WARN=yellow}|%uuid|%-50logger{50}:%cyan(%line) - %msg%n"/>
+
 
     <!--     send log to console -->
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
