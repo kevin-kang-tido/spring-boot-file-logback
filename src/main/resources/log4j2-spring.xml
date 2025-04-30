@@ -1,0 +1,7 @@
+<!--<springProfile name="dev">-->
+<!--    <logger name="com.example" level="DEBUG"/>-->
+<!--</springProfile>-->
+
+<springProfile name="prod">
+   <logger name="com.example" level="INFO"/>
+</springProfile>
