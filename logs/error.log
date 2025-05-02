@@ -1,10 +1,2 @@
-2025-04-30 14:15:52.043|ERROR|494341e57c7c4a2ca3b2cb217e56ea49|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
-2025-04-30 14:15:52.045|WARN |494341e57c7c4a2ca3b2cb217e56ea49|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
-2025-04-30 14:18:49.660|ERROR|abc22d7b89704f538b16110e1aca2c32|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
-2025-04-30 14:18:49.660|WARN |abc22d7b89704f538b16110e1aca2c32|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
-2025-04-30 14:18:49.909|ERROR|94f06e6c28b845fc8e510f62d0440ab7|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
-2025-04-30 14:18:49.910|WARN |94f06e6c28b845fc8e510f62d0440ab7|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
-2025-04-30 14:25:59.423|ERROR|addc939bc9df43bf8a074a07c6912c99|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
-2025-04-30 14:25:59.424|WARN |addc939bc9df43bf8a074a07c6912c99|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
-2025-04-30 14:27:29.125|ERROR|156560fd26f5413dad79a1053902079c|com.apd.logbackspringbootfile.TestController      :19 - Error message logged.
-2025-04-30 14:27:29.125|WARN |156560fd26f5413dad79a1053902079c|com.apd.logbackspringbootfile.TestController      :20 - Warn message logged.
+2025-05-02 09:17:07.767|ERROR|c78df543cf2b4864babc19ae8b9c65fc|com.apd.logbackspringbootfile.TestController      :21 - Error message logged.
+2025-05-02 09:17:07.776|WARN |c78df543cf2b4864babc19ae8b9c65fc|com.apd.logbackspringbootfile.TestController      :22 - Warn message logged.
