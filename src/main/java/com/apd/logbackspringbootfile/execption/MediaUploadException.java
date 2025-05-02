@@ -29,5 +29,4 @@ public class MediaUploadException {
                 .build();
         return  new BasedErrorResponse(basedError);
     }
-
 }
