@@ -1,2 +1,0 @@
-2025-05-02 09:17:07.767|ERROR|c78df543cf2b4864babc19ae8b9c65fc|com.apd.logbackspringbootfile.TestController      :21 - Error message logged.
-2025-05-02 09:17:07.776|WARN |c78df543cf2b4864babc19ae8b9c65fc|com.apd.logbackspringbootfile.TestController      :22 - Warn message logged.
