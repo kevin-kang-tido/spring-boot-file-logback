@@ -13,23 +13,24 @@ java {
 	}
 }
 
-//repositories {
-//	mavenCentral()
-//}
-
 repositories {
-	maven {
-		url = uri("http://localhost:8081/repository/maven-central") // Replace with your Nexus proxy repo URL
-		allowInsecureProtocol = true // Set to false if you're using HTTPS
-		credentials {
-			username = "admin" // Replace with your Nexus username
-			password = "97bd2c98-7b80-4b33-bed1-43935ab8b609" // Replace with your Nexus password
-		}
-	}
+	mavenCentral()
 }
+
+//repositories {
+//	maven {
+//		url = uri("http://localhost:8081/repository/maven-central") // Replace with your Nexus proxy repo URL
+//		allowInsecureProtocol = true // Set to false if you're using HTTPS
+//		credentials {
+//			username = "admin" // Replace with your Nexus username
+//			password = "97bd2c98-7b80-4b33-bed1-43935ab8b609" // Replace with your Nexus password
+//		}
+//	}
+//}
 
 dependencies {
 
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
@@ -37,6 +38,9 @@ dependencies {
 
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
+
+	runtimeOnly 'org.postgresql:postgresql'
+
 }
 
 tasks.named('test') {

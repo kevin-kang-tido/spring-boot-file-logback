@@ -1,0 +1,11 @@
+2025-05-05 00:12:46.970|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 16400 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-05 00:12:47.040|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-05 00:12:56.940|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:12:56.944|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-05 00:12:56.945|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-05 00:12:57.127|INFO |9ec7ec2ee3f34bae957514e3ebf23415|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-05 00:12:58.713|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:12:59.539|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4a122e68
+2025-05-05 00:12:59.542|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-05 00:13:06.742|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:13:07.004|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 23.38 seconds (process running for 26.91)
