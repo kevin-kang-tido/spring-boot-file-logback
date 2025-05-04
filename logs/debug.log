@@ -91,3 +91,707 @@
 2025-05-05 00:13:07.004|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 23.38 seconds (process running for 26.91)
 2025-05-05 00:13:29.657|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
 2025-05-05 00:13:29.658|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:13:59.670|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:13:59.670|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:14:29.672|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:14:29.672|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:14:59.675|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:14:59.675|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:15:29.678|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:15:29.678|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:15:59.687|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:15:59.688|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:16:29.701|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:16:29.701|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:16:59.710|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:16:59.710|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:17:29.724|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:17:29.726|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:17:59.738|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:17:59.738|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:18:29.739|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:18:29.741|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:18:59.745|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:18:59.746|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:19:29.774|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:19:29.774|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:19:59.789|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:19:59.789|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:20:29.791|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:20:29.791|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:20:59.794|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:20:59.795|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:21:29.798|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:21:29.798|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:21:59.801|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:21:59.801|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:22:29.804|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:22:29.804|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:22:59.818|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:22:59.818|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:23:29.834|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:23:29.834|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:23:59.849|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:23:59.849|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:24:29.854|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:24:29.855|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:24:59.859|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:24:59.860|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:25:29.874|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:25:29.874|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:25:59.882|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:25:59.883|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:26:29.887|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:26:29.888|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:26:59.899|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:26:59.899|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:27:29.920|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:27:29.920|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:27:59.934|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:27:59.934|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:28:29.945|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:28:29.945|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:28:59.964|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:28:59.966|DEBUG|60b9ce9c9c404d2396bf2baceac09d84|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:29:24.873|INFO |a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-05 00:29:24.873|DEBUG|a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:29:24.873|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4a122e68: (connection evicted)
+2025-05-05 00:29:24.887|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2cbd9270: (connection evicted)
+2025-05-05 00:29:24.887|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@69bf0983: (connection evicted)
+2025-05-05 00:29:24.887|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@18721750: (connection evicted)
+2025-05-05 00:29:24.887|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@990f6cc: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@3292c6bb: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@b367570: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@3763bd1: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@dde8be5: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|975e0bf061f94cee84515b544c33c3d9|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@29dd23fb: (connection evicted)
+2025-05-05 00:29:24.893|DEBUG|a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2025-05-05 00:29:24.906|INFO |a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-05 00:29:34.300|INFO |3ad14d8aa30f4cc781af623d825ba401|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 14988 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-05 00:29:34.323|DEBUG|3ad14d8aa30f4cc781af623d825ba401|c.a.l.LogbackspringbootfileApplication            :54 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-05 00:29:34.326|INFO |3ad14d8aa30f4cc781af623d825ba401|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-05 00:29:38.321|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:29:38.321|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-05 00:29:38.336|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-05 00:29:38.447|INFO |3ad14d8aa30f4cc781af623d825ba401|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-05 00:29:38.562|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :974 - Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa
+2025-05-05 00:29:38.640|DEBUG|3ad14d8aa30f4cc781af623d825ba401|org.jboss.logging                                 :164 - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2025-05-05 00:29:39.977|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1106 - HikariPool-1 - configuration:
+2025-05-05 00:29:39.986|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - allowPoolSuspension.............false
+2025-05-05 00:29:39.987|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - autoCommit......................true
+2025-05-05 00:29:39.988|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - catalog.........................none
+2025-05-05 00:29:39.989|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionInitSql...............none
+2025-05-05 00:29:39.990|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTestQuery.............none
+2025-05-05 00:29:39.991|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTimeout...............30000
+2025-05-05 00:29:39.992|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSource......................none
+2025-05-05 00:29:39.993|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceClassName.............none
+2025-05-05 00:29:39.994|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceJNDI..................none
+2025-05-05 00:29:39.996|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceProperties............{password=<masked>}
+2025-05-05 00:29:39.997|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - driverClassName................."org.postgresql.Driver"
+2025-05-05 00:29:39.998|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - exceptionOverrideClassName......none
+2025-05-05 00:29:40.000|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckProperties...........{}
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckRegistry.............none
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - idleTimeout.....................600000
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - initializationFailTimeout.......1
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - isolateInternalQueries..........false
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - jdbcUrl.........................jdbc:postgresql://172.30.144.1:1234/personal_db
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - keepaliveTime...................0
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - leakDetectionThreshold..........0
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - maxLifetime.....................1800000
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - maximumPoolSize.................10
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - metricRegistry..................none
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - metricsTrackerFactory...........none
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - minimumIdle.....................10
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - password........................<masked>
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - poolName........................"HikariPool-1"
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - readOnly........................false
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - registerMbeans..................false
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - scheduledExecutor...............none
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - schema..........................none
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - threadFactory...................internal
+2025-05-05 00:29:40.001|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - transactionIsolation............default
+2025-05-05 00:29:40.016|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - username........................"personal"
+2025-05-05 00:29:40.016|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - validationTimeout...............5000
+2025-05-05 00:29:40.016|INFO |3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:29:42.149|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.pool.PoolBase                   :374 - HikariPool-1 - Failed to create/setup connection: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2025-05-05 00:29:42.149|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.pool.HikariPool                 :489 - HikariPool-1 - Cannot acquire connection from data source
+org.postgresql.util.PSQLException: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:352)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:126)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:467)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcIsolationDelegate.delegateWork(JdbcIsolationDelegate.java:61)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.getJdbcEnvironmentUsingJdbcMetadata(JdbcEnvironmentInitiator.java:320)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:129)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:81)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:130)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:238)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215)
+	at org.hibernate.boot.model.relational.Database.<init>(Database.java:45)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.getDatabase(InFlightMetadataCollectorImpl.java:226)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:194)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:171)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1442)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1513)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1865)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1814)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.apd.logbackspringbootfile.LogbackspringbootfileApplication.main(LogbackspringbootfileApplication.java:10)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 49 common frames omitted
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1106 - HikariPool-1 - configuration:
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - allowPoolSuspension.............false
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - autoCommit......................true
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - catalog.........................none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionInitSql...............none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTestQuery.............none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTimeout...............30000
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSource......................none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceClassName.............none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceJNDI..................none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceProperties............{password=<masked>}
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - driverClassName................."org.postgresql.Driver"
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - exceptionOverrideClassName......none
+2025-05-05 00:29:44.903|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckProperties...........{}
+2025-05-05 00:29:44.919|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckRegistry.............none
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - idleTimeout.....................600000
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - initializationFailTimeout.......1
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - isolateInternalQueries..........false
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - jdbcUrl.........................jdbc:postgresql://172.30.144.1:1234/personal_db
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - keepaliveTime...................0
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - leakDetectionThreshold..........0
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - maxLifetime.....................1800000
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - maximumPoolSize.................10
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - metricRegistry..................none
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - metricsTrackerFactory...........none
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - minimumIdle.....................10
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - password........................<masked>
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - poolName........................"HikariPool-1"
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - readOnly........................false
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - registerMbeans..................false
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - scheduledExecutor...............none
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - schema..........................none
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - threadFactory...................internal
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - transactionIsolation............default
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - username........................"personal"
+2025-05-05 00:29:44.920|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariConfig                    :1138 - validationTimeout...............5000
+2025-05-05 00:29:44.920|INFO |3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:29:46.973|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.pool.PoolBase                   :374 - HikariPool-1 - Failed to create/setup connection: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2025-05-05 00:29:46.973|DEBUG|3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.pool.HikariPool                 :489 - HikariPool-1 - Cannot acquire connection from data source
+org.postgresql.util.PSQLException: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:352)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:126)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:467)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:46)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:39)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:63)
+	at org.hibernate.tool.schema.extract.spi.ExtractionContext.getQueryResults(ExtractionContext.java:43)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:39)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:66)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:60)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:185)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:93)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1421)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1865)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1814)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.apd.logbackspringbootfile.LogbackspringbootfileApplication.main(LogbackspringbootfileApplication.java:10)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 53 common frames omitted
+2025-05-05 00:29:47.975|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardService          :168 - Stopping service [Tomcat]
+2025-05-05 00:30:04.403|INFO |cdc22b6387064231aea5771c883fb009|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 16308 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-05 00:30:04.411|DEBUG|cdc22b6387064231aea5771c883fb009|c.a.l.LogbackspringbootfileApplication            :54 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-05 00:30:04.413|INFO |cdc22b6387064231aea5771c883fb009|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-05 00:30:08.147|INFO |cdc22b6387064231aea5771c883fb009|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-05 00:30:08.249|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :974 - Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa
+2025-05-05 00:30:08.312|DEBUG|cdc22b6387064231aea5771c883fb009|org.jboss.logging                                 :164 - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2025-05-05 00:30:09.050|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1106 - HikariPool-1 - configuration:
+2025-05-05 00:30:09.057|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - allowPoolSuspension.............false
+2025-05-05 00:30:09.057|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - autoCommit......................true
+2025-05-05 00:30:09.058|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - catalog.........................none
+2025-05-05 00:30:09.059|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionInitSql...............none
+2025-05-05 00:30:09.060|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTestQuery.............none
+2025-05-05 00:30:09.060|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTimeout...............30000
+2025-05-05 00:30:09.061|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSource......................none
+2025-05-05 00:30:09.061|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceClassName.............none
+2025-05-05 00:30:09.061|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceJNDI..................none
+2025-05-05 00:30:09.062|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceProperties............{password=<masked>}
+2025-05-05 00:30:09.063|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - driverClassName................."org.postgresql.Driver"
+2025-05-05 00:30:09.064|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - exceptionOverrideClassName......none
+2025-05-05 00:30:09.065|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckProperties...........{}
+2025-05-05 00:30:09.067|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckRegistry.............none
+2025-05-05 00:30:09.068|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - idleTimeout.....................600000
+2025-05-05 00:30:09.069|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - initializationFailTimeout.......1
+2025-05-05 00:30:09.069|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - isolateInternalQueries..........false
+2025-05-05 00:30:09.070|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - jdbcUrl.........................jdbc:postgresql://172.30.144.1:1234/personal_db
+2025-05-05 00:30:09.071|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - keepaliveTime...................0
+2025-05-05 00:30:09.073|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - leakDetectionThreshold..........0
+2025-05-05 00:30:09.074|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - maxLifetime.....................1800000
+2025-05-05 00:30:09.076|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - maximumPoolSize.................10
+2025-05-05 00:30:09.077|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - metricRegistry..................none
+2025-05-05 00:30:09.079|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - metricsTrackerFactory...........none
+2025-05-05 00:30:09.080|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - minimumIdle.....................10
+2025-05-05 00:30:09.081|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - password........................<masked>
+2025-05-05 00:30:09.082|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - poolName........................"HikariPool-1"
+2025-05-05 00:30:09.084|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - readOnly........................false
+2025-05-05 00:30:09.084|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - registerMbeans..................false
+2025-05-05 00:30:09.085|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - scheduledExecutor...............none
+2025-05-05 00:30:09.085|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - schema..........................none
+2025-05-05 00:30:09.087|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - threadFactory...................internal
+2025-05-05 00:30:09.089|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - transactionIsolation............default
+2025-05-05 00:30:09.092|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - username........................"personal"
+2025-05-05 00:30:09.093|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - validationTimeout...............5000
+2025-05-05 00:30:09.093|INFO |cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:30:11.175|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.pool.PoolBase                   :374 - HikariPool-1 - Failed to create/setup connection: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2025-05-05 00:30:11.175|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.pool.HikariPool                 :489 - HikariPool-1 - Cannot acquire connection from data source
+org.postgresql.util.PSQLException: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:352)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:126)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:467)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcIsolationDelegate.delegateWork(JdbcIsolationDelegate.java:61)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.getJdbcEnvironmentUsingJdbcMetadata(JdbcEnvironmentInitiator.java:320)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:129)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:81)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:130)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:238)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215)
+	at org.hibernate.boot.model.relational.Database.<init>(Database.java:45)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.getDatabase(InFlightMetadataCollectorImpl.java:226)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:194)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:171)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1442)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1513)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1865)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1814)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.apd.logbackspringbootfile.LogbackspringbootfileApplication.main(LogbackspringbootfileApplication.java:10)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 49 common frames omitted
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1106 - HikariPool-1 - configuration:
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - allowPoolSuspension.............false
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - autoCommit......................true
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - catalog.........................none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionInitSql...............none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTestQuery.............none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTimeout...............30000
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSource......................none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceClassName.............none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceJNDI..................none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceProperties............{password=<masked>}
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - driverClassName................."org.postgresql.Driver"
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - exceptionOverrideClassName......none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckProperties...........{}
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckRegistry.............none
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - idleTimeout.....................600000
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - initializationFailTimeout.......1
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - isolateInternalQueries..........false
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - jdbcUrl.........................jdbc:postgresql://172.30.144.1:1234/personal_db
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - keepaliveTime...................0
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - leakDetectionThreshold..........0
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - maxLifetime.....................1800000
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - maximumPoolSize.................10
+2025-05-05 00:30:13.837|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - metricRegistry..................none
+2025-05-05 00:30:13.853|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - metricsTrackerFactory...........none
+2025-05-05 00:30:13.855|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - minimumIdle.....................10
+2025-05-05 00:30:13.855|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - password........................<masked>
+2025-05-05 00:30:13.856|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - poolName........................"HikariPool-1"
+2025-05-05 00:30:13.857|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - readOnly........................false
+2025-05-05 00:30:13.857|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - registerMbeans..................false
+2025-05-05 00:30:13.858|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - scheduledExecutor...............none
+2025-05-05 00:30:13.858|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - schema..........................none
+2025-05-05 00:30:13.859|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - threadFactory...................internal
+2025-05-05 00:30:13.859|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - transactionIsolation............default
+2025-05-05 00:30:13.860|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - username........................"personal"
+2025-05-05 00:30:13.860|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariConfig                    :1138 - validationTimeout...............5000
+2025-05-05 00:30:13.861|INFO |cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:30:15.894|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.pool.PoolBase                   :374 - HikariPool-1 - Failed to create/setup connection: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2025-05-05 00:30:15.894|DEBUG|cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.pool.HikariPool                 :489 - HikariPool-1 - Cannot acquire connection from data source
+org.postgresql.util.PSQLException: Connection to 172.30.144.1:1234 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:352)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:126)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:467)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:46)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.getIsolatedConnection(GenerationTargetToDatabase.java:60)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.jdbcStatement(GenerationTargetToDatabase.java:112)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:79)
+	at org.hibernate.tool.schema.internal.Helper.applySqlString(Helper.java:233)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:213)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:186)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:156)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:116)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:238)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1421)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1865)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1814)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.apd.logbackspringbootfile.LogbackspringbootfileApplication.main(LogbackspringbootfileApplication.java:10)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 53 common frames omitted
+2025-05-05 00:30:16.908|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardService          :168 - Stopping service [Tomcat]
+2025-05-05 00:30:51.149|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 14720 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-05 00:30:51.149|DEBUG|e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :54 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-05 00:30:51.149|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-05 00:30:53.879|INFO |e6e45de63c3049c8993a04060908d485|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-05 00:30:53.966|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :974 - Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa
+2025-05-05 00:30:54.065|DEBUG|e6e45de63c3049c8993a04060908d485|org.jboss.logging                                 :164 - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1106 - HikariPool-1 - configuration:
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - allowPoolSuspension.............false
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - autoCommit......................true
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - catalog.........................none
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - connectionInitSql...............none
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTestQuery.............none
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - connectionTimeout...............30000
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - dataSource......................none
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceClassName.............none
+2025-05-05 00:30:54.809|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceJNDI..................none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - dataSourceProperties............{password=<masked>}
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - driverClassName................."org.postgresql.Driver"
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - exceptionOverrideClassName......none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckProperties...........{}
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - healthCheckRegistry.............none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - idleTimeout.....................600000
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - initializationFailTimeout.......1
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - isolateInternalQueries..........false
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - jdbcUrl.........................jdbc:postgresql://172.30.144.1:1234/personal_db
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - keepaliveTime...................0
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - leakDetectionThreshold..........0
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - maxLifetime.....................1800000
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - maximumPoolSize.................10
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - metricRegistry..................none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - metricsTrackerFactory...........none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - minimumIdle.....................10
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - password........................<masked>
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - poolName........................"HikariPool-1"
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - readOnly........................false
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - registerMbeans..................false
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - scheduledExecutor...............none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - schema..........................none
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - threadFactory...................internal
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - transactionIsolation............default
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - username........................"personal"
+2025-05-05 00:30:54.824|DEBUG|e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariConfig                    :1138 - validationTimeout...............5000
+2025-05-05 00:30:54.824|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-05 00:30:55.190|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5a466dd
+2025-05-05 00:30:55.191|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-05 00:30:55.299|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2025-05-05 00:30:55.346|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@f2290aa
+2025-05-05 00:30:55.388|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+2025-05-05 00:30:55.433|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4a200f2a
+2025-05-05 00:30:55.475|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=3, active=0, idle=3, waiting=0)
+2025-05-05 00:30:55.528|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@609cea03
+2025-05-05 00:30:55.571|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=4, active=0, idle=4, waiting=0)
+2025-05-05 00:30:55.615|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2a0ff065
+2025-05-05 00:30:55.657|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=5, active=0, idle=5, waiting=0)
+2025-05-05 00:30:55.725|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@39c0e7a
+2025-05-05 00:30:55.758|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=6, active=0, idle=6, waiting=0)
+2025-05-05 00:30:55.841|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7c53c47e
+2025-05-05 00:30:55.886|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=7, active=0, idle=7, waiting=0)
+2025-05-05 00:30:55.997|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7b98e505
+2025-05-05 00:30:56.036|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=8, active=0, idle=8, waiting=0)
+2025-05-05 00:30:56.100|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2e41aecb
+2025-05-05 00:30:56.132|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=9, active=0, idle=9, waiting=0)
+2025-05-05 00:30:56.209|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :728 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4dcd8aa7
+2025-05-05 00:30:56.250|DEBUG|8daaf2d0068b4e7383b9fa55f7a597d9|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:30:58.650|DEBUG|e6e45de63c3049c8993a04060908d485|_.s.web.servlet.HandlerMapping.Mappings           :294 - 
+	c.a.l.f.CourseController:
+	{GET [/api/v1/courses/get-all-enable-courses]}: getAllEnableCourse(Integer,Integer)
+	{GET [/api/v1/courses/{courseId}]}: getCourseById(UUID)
+	{GET [/api/v1/courses/get-all-course]}: getAllCourses(Integer,Integer)
+	{POST [/api/v1/courses/create-new-course]}: createResponse(CourseRequest)
+	{PUT [/api/v1/courses/disable/{courseId}]}: disableCourse(UUID)
+	{PUT [/api/v1/courses/enable/{courseId}]}: enableCourse(UUID)
+	{PUT [/api/v1/courses/{courseId}]}: updateCourseById(UUID,CourseRequest)
+	{DELETE [/api/v1/courses/{courseId}]}: deleteCourseById(UUID)
+2025-05-05 00:30:58.651|DEBUG|e6e45de63c3049c8993a04060908d485|_.s.web.servlet.HandlerMapping.Mappings           :294 - 
+	c.a.l.TestController:
+	{GET [/ || ]}: test()
+	{POST [/upload]}: handleFileUpload(MultipartFile)
+	{GET [/new]}: testingHttpsStatus()
+2025-05-05 00:30:58.651|DEBUG|e6e45de63c3049c8993a04060908d485|_.s.web.servlet.HandlerMapping.Mappings           :294 - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2025-05-05 00:30:58.667|DEBUG|e6e45de63c3049c8993a04060908d485|_.s.web.servlet.HandlerMapping.Mappings           :86 - 'beanNameHandlerMapping' {}
+2025-05-05 00:30:58.784|DEBUG|e6e45de63c3049c8993a04060908d485|_.s.web.servlet.HandlerMapping.Mappings           :176 - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2025-05-05 00:30:59.103|INFO |e6e45de63c3049c8993a04060908d485|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-05 00:30:59.134|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 9.27 seconds (process running for 10.699)
+2025-05-05 00:31:25.301|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:31:25.301|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:31:55.305|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:31:55.306|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:32:25.501|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:32:25.502|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:32:55.522|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:32:55.523|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:33:25.584|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:33:25.585|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:33:55.587|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:33:55.587|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:34:25.592|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:34:25.592|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:34:55.597|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:34:55.602|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:35:25.613|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:35:25.613|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:35:55.624|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:35:55.624|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:36:25.641|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:36:25.641|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:36:55.655|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:36:55.655|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:37:25.706|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:37:25.706|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:37:55.729|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:37:55.729|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:38:25.741|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:38:25.741|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:38:55.748|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:38:55.750|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:39:25.759|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:39:25.761|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:39:55.766|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:39:55.766|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:40:25.847|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:40:25.861|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:40:55.873|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:40:55.873|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:41:25.876|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:41:25.877|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:41:55.879|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:41:55.879|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:42:25.881|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:42:25.881|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:42:55.896|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:42:55.896|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:43:25.900|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:43:25.902|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:43:55.918|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:43:55.918|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:44:26.133|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:44:26.134|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:44:56.136|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:44:56.138|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:45:26.141|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:45:26.141|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:45:56.155|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:45:56.155|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:46:26.156|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:46:26.157|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:46:56.162|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:46:56.162|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:47:26.171|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:47:26.171|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:47:56.172|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:47:56.172|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:48:26.180|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:48:26.180|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:48:56.182|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:48:56.182|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:49:26.188|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:49:26.190|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:49:56.193|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:49:56.193|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:50:26.203|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:50:26.203|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:50:56.216|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:50:56.216|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:51:26.228|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:51:26.228|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:51:56.241|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:51:56.241|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:52:26.246|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:52:26.246|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:52:56.249|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:52:56.250|DEBUG|f8690985ddc34010904e3280634c2fee|com.zaxxer.hikari.pool.HikariPool                 :510 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-05-05 00:53:16.458|INFO |18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-05 00:53:16.458|DEBUG|18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2025-05-05 00:53:16.458|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5a466dd: (connection evicted)
+2025-05-05 00:53:16.463|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@f2290aa: (connection evicted)
+2025-05-05 00:53:16.464|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4a200f2a: (connection evicted)
+2025-05-05 00:53:16.466|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@609cea03: (connection evicted)
+2025-05-05 00:53:16.466|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2a0ff065: (connection evicted)
+2025-05-05 00:53:16.466|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@39c0e7a: (connection evicted)
+2025-05-05 00:53:16.471|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7c53c47e: (connection evicted)
+2025-05-05 00:53:16.471|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7b98e505: (connection evicted)
+2025-05-05 00:53:16.471|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2e41aecb: (connection evicted)
+2025-05-05 00:53:16.473|DEBUG|1ca4446705334027ae93e2e7f7900fc8|com.zaxxer.hikari.pool.PoolBase                   :133 - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4dcd8aa7: (connection evicted)
+2025-05-05 00:53:16.473|DEBUG|18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.pool.HikariPool                 :405 - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2025-05-05 00:53:16.473|INFO |18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.

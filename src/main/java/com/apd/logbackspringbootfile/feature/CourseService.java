@@ -83,4 +83,7 @@ public interface CourseService {
      * @return The updated {@link Course} entity.
      */
     Course disableCourse(UUID courseId);
+
+
+    Page<Course> searchCourses(String name, String creditHours, Boolean isEnabled, Integer page, Integer size);
 }

@@ -57,4 +57,9 @@ public class Course {
      */
     private boolean isEnabled = true;
 
+    /**
+     * The price of the course.
+     */
+    private String price;
+
 }

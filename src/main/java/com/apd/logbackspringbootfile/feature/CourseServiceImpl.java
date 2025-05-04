@@ -3,24 +3,25 @@ package com.apd.logbackspringbootfile.feature;
 import com.apd.logbackspringbootfile.domain.Course;
 import com.apd.logbackspringbootfile.feature.dto.CourseRequest;
 import com.apd.logbackspringbootfile.feature.dto.CourseResponse;
+import com.apd.logbackspringbootfile.utils.CourseSpecification;
 import jakarta.transaction.Transactional;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.cache.annotation.CacheEvict;
-import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+import org.springframework.data.jpa.domain.Specification;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import java.util.List;
+
 import java.util.UUID;
 
 @Service
 @AllArgsConstructor
 @Slf4j
 public class CourseServiceImpl implements CourseService {
+
     private final CourseRepository courseRepository;
 
 
@@ -116,5 +117,16 @@ public class CourseServiceImpl implements CourseService {
         Course course = courseRepository.findById(courseId).orElseThrow();
         course.setEnabled(false);
         return courseRepository.save(course);
+    }
+
+    @Override
+    public Page<Course> searchCourses(String name, String creditHours, Boolean isEnabled, Integer page, Integer size) {
+
+        Specification<Course> specification  = Specification
+                .where(CourseSpecification.isEnabled(isEnabled))
+                .and(CourseSpecification.hasName(name))
+                .and(CourseSpecification.hasCreditHours(creditHours));
+
+        return courseRepository.findAll(specification,PageRequest.of(page, size));
     }
 }

@@ -1,7 +1,7 @@
 DB_USERNAME: personal
 DB_PASSWORD: personal
 DB_HOST: 172.30.144.1
-DB_PORT: 5433
+DB_PORT: 1234
 DB_NAME: personal_db
 
 server:

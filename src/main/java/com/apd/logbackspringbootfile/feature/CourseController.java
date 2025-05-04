@@ -5,6 +5,7 @@ import com.apd.logbackspringbootfile.feature.dto.CourseRequest;
 import com.apd.logbackspringbootfile.feature.dto.CourseResponse;
 import com.apd.logbackspringbootfile.utils.ApiResponse;
 import lombok.RequiredArgsConstructor;
+import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -125,6 +126,18 @@ public class CourseController {
         return ResponseEntity.ok(response);
 
     }
+
+    @GetMapping("/search")
+    public ResponseEntity<Page<Course>> searchCourses(
+            @RequestParam(required = false) String name,
+            @RequestParam(required = false) String creditHours,
+            @RequestParam(required = false) Boolean isEnabled,
+            @RequestParam(defaultValue = "0") int page,
+            @RequestParam(defaultValue = "10") int size
+    ) {
+        return ResponseEntity.ok(courseService.searchCourses(name, creditHours, isEnabled, page, size));
+    }
+
 
 }
 
