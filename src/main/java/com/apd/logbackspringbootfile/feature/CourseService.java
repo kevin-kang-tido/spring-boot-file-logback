@@ -86,4 +86,7 @@ public interface CourseService {
 
 
     Page<Course> searchCourses(String name, String creditHours, Boolean isEnabled, Integer page, Integer size);
+
+
+    Page<Course> searchCoursesWithPrice(String name, String creditHours, Boolean isEnabled, Integer page, Integer size,Integer price);
 }

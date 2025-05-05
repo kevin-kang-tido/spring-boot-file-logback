@@ -138,6 +138,18 @@ public class CourseController {
         return ResponseEntity.ok(courseService.searchCourses(name, creditHours, isEnabled, page, size));
     }
 
+    @GetMapping("/searchWithPrice")
+    public ResponseEntity<Page<Course>> searchCoursesWithPrice(
+            @RequestParam(required = false) String name,
+            @RequestParam(required = false) String creditHours,
+            @RequestParam(required = false) Boolean isEnabled,
+            @RequestParam(required = false) Integer price,
+            @RequestParam(defaultValue = "0") int page,
+            @RequestParam(defaultValue = "10") int size
+    ) {
+        return ResponseEntity.ok(courseService.searchCoursesWithPrice(name, creditHours, isEnabled,price, page, size));
+    }
+
 
 }
 

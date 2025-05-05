@@ -129,4 +129,16 @@ public class CourseServiceImpl implements CourseService {
 
         return courseRepository.findAll(specification,PageRequest.of(page, size));
     }
+
+    @Override
+    public Page<Course> searchCoursesWithPrice(String name, String creditHours, Boolean isEnabled, Integer page, Integer size, Integer price) {
+
+        Specification<Course> specification = Specification
+                .where(CourseSpecification.isEnabled(isEnabled))
+                .and(CourseSpecification.hasName(name))
+                .and(CourseSpecification.hasCreditHours(creditHours))
+                .and(CourseSpecification.findByPriceGreaterThan(Double.valueOf(price)));
+
+        return courseRepository.findAll(specification,PageRequest.of(page, size));
+    }
 }
