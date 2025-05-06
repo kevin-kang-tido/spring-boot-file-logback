@@ -38,7 +38,7 @@ public class CourseSpecification {
                 : cb.equal(root.get("isEnabled"), isEnabled);
     }
 
-    public static Specification<Course> findByPriceGreaterThan(Double price) {
+    public static Specification<Course> findByPriceGreaterThan(Integer price) {
         return (root, query, cb)
                 -> cb.greaterThan(root.get("price"), price);
     }

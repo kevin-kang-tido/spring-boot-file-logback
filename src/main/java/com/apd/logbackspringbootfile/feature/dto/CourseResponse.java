@@ -24,6 +24,8 @@ public class CourseResponse  {
 
     private String description;
 
+    private Double price;
+
 
 
 }

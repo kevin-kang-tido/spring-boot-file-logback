@@ -34,6 +34,7 @@ public class CourseServiceImpl implements CourseService {
         newCourse.setCourseName(courseRequest.getCourseName());
         newCourse.setCreditHours(courseRequest.getCreditHours());
         newCourse.setDescription(courseRequest.getDescription());
+        newCourse.setPrice(courseRequest.getPrice());
 
 
         return courseRepository.save(newCourse);
@@ -78,7 +79,8 @@ public class CourseServiceImpl implements CourseService {
                 course.getCourseCode(),
                 course.getCourseName(),
                 course.getCreditHours(),
-                course.getDescription()
+                course.getDescription(),
+                course.getPrice()
         );
     }
 
@@ -89,9 +91,7 @@ public class CourseServiceImpl implements CourseService {
         existingCourse.setCourseName(courseRequest.getCourseName());
         existingCourse.setCreditHours(courseRequest.getCreditHours());
         existingCourse.setDescription(courseRequest.getDescription());
-
-//        clearAllCoursesCache(); // TODO: clear all cache on the redis when course update
-
+        existingCourse.setPrice(courseRequest.getPrice());
         return courseRepository.save(existingCourse);
     }
 
@@ -131,13 +131,19 @@ public class CourseServiceImpl implements CourseService {
     }
 
     @Override
-    public Page<Course> searchCoursesWithPrice(String name, String creditHours, Boolean isEnabled, Integer page, Integer size, Integer price) {
+    public Page<Course> searchCoursesWithPrice(String name, String creditHours, Boolean isEnabled, Integer price, Integer page, Integer size) {
+
+        if(price == null || price < 0){
+            throw  new ResponseStatusException(
+                    HttpStatus.BAD_REQUEST,
+                    "Price must be greater than 0 and  can not be null");
+        }
 
         Specification<Course> specification = Specification
                 .where(CourseSpecification.isEnabled(isEnabled))
                 .and(CourseSpecification.hasName(name))
                 .and(CourseSpecification.hasCreditHours(creditHours))
-                .and(CourseSpecification.findByPriceGreaterThan(Double.valueOf(price)));
+                .and(CourseSpecification.findByPriceGreaterThan(price));
 
         return courseRepository.findAll(specification,PageRequest.of(page, size));
     }

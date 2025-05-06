@@ -1,56 +1,98 @@
-2025-05-05 00:12:46.970|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 16400 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
-2025-05-05 00:12:47.040|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
-2025-05-05 00:12:56.940|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:12:56.944|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
-2025-05-05 00:12:56.945|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
-2025-05-05 00:12:57.127|INFO |9ec7ec2ee3f34bae957514e3ebf23415|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
-2025-05-05 00:12:58.713|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:12:59.539|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4a122e68
-2025-05-05 00:12:59.542|INFO |9ec7ec2ee3f34bae957514e3ebf23415|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
-2025-05-05 00:13:06.742|INFO |9ec7ec2ee3f34bae957514e3ebf23415|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:13:07.004|INFO |9ec7ec2ee3f34bae957514e3ebf23415|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 23.38 seconds (process running for 26.91)
-2025-05-05 00:29:24.873|INFO |a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
-2025-05-05 00:29:24.906|INFO |a4213a8fd7e04d3f8ef159469924e9d2|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
-2025-05-05 00:29:34.300|INFO |3ad14d8aa30f4cc781af623d825ba401|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 14988 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
-2025-05-05 00:29:34.326|INFO |3ad14d8aa30f4cc781af623d825ba401|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
-2025-05-05 00:29:38.321|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:29:38.321|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
-2025-05-05 00:29:38.336|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
-2025-05-05 00:29:38.447|INFO |3ad14d8aa30f4cc781af623d825ba401|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
-2025-05-05 00:29:40.016|INFO |3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:29:44.920|INFO |3ad14d8aa30f4cc781af623d825ba401|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:29:47.975|INFO |3ad14d8aa30f4cc781af623d825ba401|org.apache.catalina.core.StandardService          :168 - Stopping service [Tomcat]
-2025-05-05 00:30:04.403|INFO |cdc22b6387064231aea5771c883fb009|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 16308 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
-2025-05-05 00:30:04.413|INFO |cdc22b6387064231aea5771c883fb009|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
-2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
-2025-05-05 00:30:08.073|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
-2025-05-05 00:30:08.147|INFO |cdc22b6387064231aea5771c883fb009|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
-2025-05-05 00:30:09.093|INFO |cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:30:13.861|INFO |cdc22b6387064231aea5771c883fb009|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:30:16.908|INFO |cdc22b6387064231aea5771c883fb009|org.apache.catalina.core.StandardService          :168 - Stopping service [Tomcat]
-2025-05-05 00:30:51.149|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 14720 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
-2025-05-05 00:30:51.149|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
-2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
-2025-05-05 00:30:53.787|INFO |e6e45de63c3049c8993a04060908d485|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
-2025-05-05 00:30:53.879|INFO |e6e45de63c3049c8993a04060908d485|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
-2025-05-05 00:30:54.824|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:30:55.190|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5a466dd
-2025-05-05 00:30:55.191|INFO |e6e45de63c3049c8993a04060908d485|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
-2025-05-05 00:30:59.103|INFO |e6e45de63c3049c8993a04060908d485|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:30:59.134|INFO |e6e45de63c3049c8993a04060908d485|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 9.27 seconds (process running for 10.699)
-2025-05-05 00:53:16.458|INFO |18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
-2025-05-05 00:53:16.473|INFO |18259bf2d64d4460b9d1b6bc1f057756|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
-2025-05-05 00:53:33.990|INFO |090cfacda78e479f95264a493b2e2751|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 2628 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
-2025-05-05 00:53:34.011|INFO |090cfacda78e479f95264a493b2e2751|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
-2025-05-05 00:53:37.832|INFO |090cfacda78e479f95264a493b2e2751|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:53:37.835|INFO |090cfacda78e479f95264a493b2e2751|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
-2025-05-05 00:53:37.836|INFO |090cfacda78e479f95264a493b2e2751|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
-2025-05-05 00:53:37.934|INFO |090cfacda78e479f95264a493b2e2751|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
-2025-05-05 00:53:39.333|INFO |090cfacda78e479f95264a493b2e2751|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
-2025-05-05 00:53:39.666|INFO |090cfacda78e479f95264a493b2e2751|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3dd2b9c1
-2025-05-05 00:53:39.669|INFO |090cfacda78e479f95264a493b2e2751|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
-2025-05-05 00:53:45.478|INFO |090cfacda78e479f95264a493b2e2751|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
-2025-05-05 00:53:45.572|INFO |090cfacda78e479f95264a493b2e2751|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 14.012 seconds (process running for 18.406)
-2025-05-05 01:04:16.179|INFO |809ad630f57e4d11b9097995ea8d01b2|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 11:28:18.658|INFO |40c5393252f4473b872cabaed9a3e8da|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 13228 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 11:28:18.762|INFO |40c5393252f4473b872cabaed9a3e8da|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 11:28:22.582|INFO |40c5393252f4473b872cabaed9a3e8da|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:28:22.587|INFO |40c5393252f4473b872cabaed9a3e8da|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 11:28:22.589|INFO |40c5393252f4473b872cabaed9a3e8da|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 11:28:22.688|INFO |40c5393252f4473b872cabaed9a3e8da|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 11:28:24.238|INFO |40c5393252f4473b872cabaed9a3e8da|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 11:28:24.586|INFO |40c5393252f4473b872cabaed9a3e8da|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@41be8db9
+2025-05-06 11:28:24.596|INFO |40c5393252f4473b872cabaed9a3e8da|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 11:28:30.475|INFO |40c5393252f4473b872cabaed9a3e8da|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:28:30.514|INFO |40c5393252f4473b872cabaed9a3e8da|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 15.484 seconds (process running for 18.287)
+2025-05-06 11:29:25.928|INFO |4b6269f3a34241d19133b6e5defe792c|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 11:33:13.617|INFO |c6e89f7f0c5d477abfea53e11b912588|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 11:33:13.656|INFO |c6e89f7f0c5d477abfea53e11b912588|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 11:35:21.367|INFO |baf48bba831c4c5b9d32cad681217afc|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 5360 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 11:35:21.373|INFO |baf48bba831c4c5b9d32cad681217afc|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 11:35:23.768|INFO |baf48bba831c4c5b9d32cad681217afc|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:35:23.770|INFO |baf48bba831c4c5b9d32cad681217afc|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 11:35:23.771|INFO |baf48bba831c4c5b9d32cad681217afc|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 11:35:23.848|INFO |baf48bba831c4c5b9d32cad681217afc|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 11:35:24.919|INFO |baf48bba831c4c5b9d32cad681217afc|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 11:35:25.263|INFO |baf48bba831c4c5b9d32cad681217afc|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1bec1589
+2025-05-06 11:35:25.267|INFO |baf48bba831c4c5b9d32cad681217afc|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 11:35:28.880|INFO |baf48bba831c4c5b9d32cad681217afc|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:35:28.952|INFO |baf48bba831c4c5b9d32cad681217afc|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 8.885 seconds (process running for 13.83)
+2025-05-06 11:35:43.478|INFO |3f08761ee012480c8f9e08f9f8c1c949|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 11:36:24.527|INFO |eaa4b25d49714ff0925e10fde62b56cf|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 11:36:24.591|INFO |eaa4b25d49714ff0925e10fde62b56cf|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 11:36:44.257|INFO |8e1cb21d91894c3f9776d5669c4da566|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 12240 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 11:36:44.279|INFO |8e1cb21d91894c3f9776d5669c4da566|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 11:36:49.170|INFO |8e1cb21d91894c3f9776d5669c4da566|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:36:49.175|INFO |8e1cb21d91894c3f9776d5669c4da566|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 11:36:49.177|INFO |8e1cb21d91894c3f9776d5669c4da566|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 11:36:49.680|INFO |8e1cb21d91894c3f9776d5669c4da566|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 11:36:52.098|INFO |8e1cb21d91894c3f9776d5669c4da566|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 11:36:52.557|INFO |8e1cb21d91894c3f9776d5669c4da566|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2d801d8
+2025-05-06 11:36:52.561|INFO |8e1cb21d91894c3f9776d5669c4da566|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 11:36:58.386|INFO |8e1cb21d91894c3f9776d5669c4da566|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:36:58.434|INFO |8e1cb21d91894c3f9776d5669c4da566|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 16.413 seconds (process running for 23.458)
+2025-05-06 11:37:02.527|INFO |dbbf4ec21905452fab96ba3056845cc9|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 11:46:17.866|INFO |f874cc19d1674cab8552615c8133ce02|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 11:46:17.913|INFO |f874cc19d1674cab8552615c8133ce02|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 11:46:37.326|INFO |dc06c8eb69ec47eeb0aea22aaba302af|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 14056 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 11:46:37.331|INFO |dc06c8eb69ec47eeb0aea22aaba302af|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 11:46:39.311|INFO |dc06c8eb69ec47eeb0aea22aaba302af|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:46:39.314|INFO |dc06c8eb69ec47eeb0aea22aaba302af|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 11:46:39.315|INFO |dc06c8eb69ec47eeb0aea22aaba302af|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 11:46:39.401|INFO |dc06c8eb69ec47eeb0aea22aaba302af|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 11:46:40.706|INFO |dc06c8eb69ec47eeb0aea22aaba302af|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 11:46:41.049|INFO |dc06c8eb69ec47eeb0aea22aaba302af|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@f10d055
+2025-05-06 11:46:41.053|INFO |dc06c8eb69ec47eeb0aea22aaba302af|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 11:46:47.095|INFO |dc06c8eb69ec47eeb0aea22aaba302af|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:46:47.132|INFO |dc06c8eb69ec47eeb0aea22aaba302af|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 11.787 seconds (process running for 17.013)
+2025-05-06 11:49:29.710|INFO |3fcd3af948e043d887c021e0999a39a2|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 11:52:01.206|INFO |733ddb05a9e349338d03917e6cfd4f7b|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 11:52:01.242|INFO |733ddb05a9e349338d03917e6cfd4f7b|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 11:52:20.909|INFO |d109c175bf944b25a8d5115eb7c662ba|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 1864 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 11:52:20.924|INFO |d109c175bf944b25a8d5115eb7c662ba|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 11:52:23.543|INFO |d109c175bf944b25a8d5115eb7c662ba|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:52:23.546|INFO |d109c175bf944b25a8d5115eb7c662ba|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 11:52:23.547|INFO |d109c175bf944b25a8d5115eb7c662ba|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 11:52:23.631|INFO |d109c175bf944b25a8d5115eb7c662ba|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 11:52:25.098|INFO |d109c175bf944b25a8d5115eb7c662ba|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 11:52:25.489|INFO |d109c175bf944b25a8d5115eb7c662ba|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6068ebb2
+2025-05-06 11:52:25.495|INFO |d109c175bf944b25a8d5115eb7c662ba|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 11:52:31.589|INFO |d109c175bf944b25a8d5115eb7c662ba|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 11:52:31.636|INFO |d109c175bf944b25a8d5115eb7c662ba|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 12.752 seconds (process running for 15.242)
+2025-05-06 11:54:56.674|INFO |cf3102d043e14be2a8a7897ecc806981|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 12:00:11.372|INFO |95c50029d84f46cc90f60ec74f97de8d|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 12:00:11.397|INFO |95c50029d84f46cc90f60ec74f97de8d|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 15:41:34.627|INFO |d7a6effa71194717aeaf748f56bf94da|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 9972 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 15:41:34.710|INFO |d7a6effa71194717aeaf748f56bf94da|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 15:42:00.181|INFO |d7a6effa71194717aeaf748f56bf94da|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 15:42:00.193|INFO |d7a6effa71194717aeaf748f56bf94da|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 15:42:00.333|INFO |d7a6effa71194717aeaf748f56bf94da|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 15:42:01.583|INFO |d7a6effa71194717aeaf748f56bf94da|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 15:42:13.903|INFO |d7a6effa71194717aeaf748f56bf94da|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 15:42:17.429|INFO |d7a6effa71194717aeaf748f56bf94da|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2a667f44
+2025-05-06 15:42:17.452|INFO |d7a6effa71194717aeaf748f56bf94da|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 15:42:52.946|INFO |d7a6effa71194717aeaf748f56bf94da|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 15:42:53.139|INFO |d7a6effa71194717aeaf748f56bf94da|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 91.417 seconds (process running for 104.84)
+2025-05-06 15:42:53.935|INFO |99caba453eec4aa4856d30bfe91399a1|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 15:54:06.674|INFO |a569e9c7355249a7917195de3a7f6bc6|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 15:54:06.721|INFO |a569e9c7355249a7917195de3a7f6bc6|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.
+2025-05-06 15:55:01.247|INFO |0d57d17236384066a2564f4d58c10d4e|c.a.l.LogbackspringbootfileApplication            :53 - Starting LogbackspringbootfileApplication using Java 17.0.12 with PID 4868 (C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile\build\classes\java\main started by kang in C:\Users\kang\Desktop\All-Spring-Self-Leaning\logbackspringbootfile)
+2025-05-06 15:55:01.265|INFO |0d57d17236384066a2564f4d58c10d4e|c.a.l.LogbackspringbootfileApplication            :658 - The following 1 profile is active: "dev"
+2025-05-06 15:55:07.517|INFO |0d57d17236384066a2564f4d58c10d4e|org.apache.coyote.http11.Http11NioProtocol        :168 - Initializing ProtocolHandler ["http-nio-9998"]
+2025-05-06 15:55:07.526|INFO |0d57d17236384066a2564f4d58c10d4e|org.apache.catalina.core.StandardService          :168 - Starting service [Tomcat]
+2025-05-06 15:55:07.529|INFO |0d57d17236384066a2564f4d58c10d4e|org.apache.catalina.core.StandardEngine           :168 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-06 15:55:07.902|INFO |0d57d17236384066a2564f4d58c10d4e|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring embedded WebApplicationContext
+2025-05-06 15:55:11.268|INFO |0d57d17236384066a2564f4d58c10d4e|com.zaxxer.hikari.HikariDataSource                :109 - HikariPool-1 - Starting...
+2025-05-06 15:55:12.565|INFO |0d57d17236384066a2564f4d58c10d4e|com.zaxxer.hikari.pool.HikariPool                 :554 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@48b2dbc4
+2025-05-06 15:55:12.582|INFO |0d57d17236384066a2564f4d58c10d4e|com.zaxxer.hikari.HikariDataSource                :122 - HikariPool-1 - Start completed.
+2025-05-06 15:55:35.231|INFO |0d57d17236384066a2564f4d58c10d4e|org.apache.coyote.http11.Http11NioProtocol        :168 - Starting ProtocolHandler ["http-nio-9998"]
+2025-05-06 15:55:35.373|INFO |0d57d17236384066a2564f4d58c10d4e|c.a.l.LogbackspringbootfileApplication            :59 - Started LogbackspringbootfileApplication in 37.809 seconds (process running for 57.101)
+2025-05-06 15:55:52.365|INFO |3971ba92898042b5aa1ddd0dc7d8e6c5|o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :168 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 15:58:33.216|INFO |90d76ea5476f49a68d1657bf79863f6b|com.zaxxer.hikari.HikariDataSource                :349 - HikariPool-1 - Shutdown initiated...
+2025-05-06 15:58:33.265|INFO |90d76ea5476f49a68d1657bf79863f6b|com.zaxxer.hikari.HikariDataSource                :351 - HikariPool-1 - Shutdown completed.

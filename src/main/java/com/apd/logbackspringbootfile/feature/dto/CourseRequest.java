@@ -24,6 +24,8 @@ public class CourseRequest {
 
     private String createdBy;
 
+    private Double price;
+
 
 
 }

@@ -143,7 +143,7 @@ public class CourseController {
             @RequestParam(required = false) String name,
             @RequestParam(required = false) String creditHours,
             @RequestParam(required = false) Boolean isEnabled,
-            @RequestParam(required = false) Integer price,
+            @RequestParam(required = true) Integer price,
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "10") int size
     ) {

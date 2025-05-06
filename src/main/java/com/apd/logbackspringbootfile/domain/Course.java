@@ -60,7 +60,7 @@ public class Course {
     /**
      * The price of the course.
      */
-    private String price;
+    private Double price;
 
 
 
